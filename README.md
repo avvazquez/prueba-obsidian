@@ -24,5 +24,5 @@ Hay tres puntos de entrada:
 
 A partir de esta premisa, es necesario desarrollar un método que, sin bloquear, devuelva un Flux con todos los árboles almacenados en la base de datos. Cada elemento de este árbol deberá contener, en un atributo, la lista de todos sus nodos hijo obtenidos de la base de datos utilizando el parentId. 
 
-Para este método se deberá desarrollar un test unitario que verifique la correcta generación de un Flux con dos árboles con la siguiente estructura:
+Para este método se deberá desarrollar un test unitario que verifique la correcta generación de un Flux con dos árboles con la siguiente estructura:  
     ![alt text](https://github.com/avvazquez/prueba-obsidian/blob/master/nodos.jpg?raw=true)
