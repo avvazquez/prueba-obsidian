@@ -1,6 +1,5 @@
-prueba-obsidian
 
-Este proyecto incluye los ejercicios 1 y 2 de la prueba. Para lanzar el proyecto ubicarse en el directorio raíz y lanzar:     `docker-compose up`
+Para lanzar el proyecto ubicarse en el directorio raíz y lanzar:     `docker-compose up`
     
 Hay tres puntos de entrada:  
  - GET localhost:8080/node devuelve un listado de nodos  
